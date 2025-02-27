@@ -1,9 +1,9 @@
 # TODO: Build a Full Web Scraper in Rust
 
 ## 1. Make an HTTP Request
-- [ ] Fetch the target webpage.
-- [ ] Handle possible errors (timeouts, invalid URLs, etc.).
-- [ ] Implement retries or rate limiting if necessary.
+- [x] Fetch the target webpage.
+- [x] Handle possible errors (timeouts, invalid URLs, etc.).
+- [x] Implement retries or rate limiting if necessary.
 
 ## 2. Parse the HTML
 - [ ] Load the response into `scraper::Html`.
